@@ -1,4 +1,4 @@
-# The GPA Trade-Off
+# Student Lifestyle EDA
 
 **Exploring the lifestyle costs of academic performance**
 
